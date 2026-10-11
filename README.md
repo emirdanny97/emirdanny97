@@ -3,7 +3,6 @@
 Computer Engineering Technology student at Politeknik Ungku Omar, Ipoh, and former technician at ViTrox Technologies. I build **IoT, embedded and automation systems**, from sensor wiring on ESP32 and Raspberry Pi to dashboards and Telegram alerts.
 
 - 🔧 1 year of industry experience assembling, wiring and testing automated X-ray inspection (AXI) machines
-- 🌱 Currently building: SmartSite, a PPE compliance and danger-zone detector on Raspberry Pi 5
 - 📫 Contact: emirdanny97@gmail.com
 
 ### Featured projects
